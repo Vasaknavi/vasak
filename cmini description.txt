@@ -1,0 +1,11 @@
+C PROJECT FOR LIBRARY BOOK MANAGEMENT
+
+The menu options are:
+
+1.     Add the book information
+2.     Display book information
+3.     List all books of given author
+4.     List the title of specified book
+5.     List the count of books in the library
+6.     List the books in the order of accession number
+7.     Exit
